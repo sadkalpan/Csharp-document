@@ -1,0 +1,7 @@
+C:\Users\sadka\source\repos\proje1\float\obj\Debug\float.csproj.AssemblyReference.cache
+C:\Users\sadka\source\repos\proje1\float\obj\Debug\float.csproj.CoreCompileInputs.cache
+C:\Users\sadka\source\repos\proje1\float\bin\Debug\@float.exe.config
+C:\Users\sadka\source\repos\proje1\float\bin\Debug\@float.exe
+C:\Users\sadka\source\repos\proje1\float\bin\Debug\@float.pdb
+C:\Users\sadka\source\repos\proje1\float\obj\Debug\@float.exe
+C:\Users\sadka\source\repos\proje1\float\obj\Debug\@float.pdb

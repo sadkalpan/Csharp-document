@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\int\bin\Debug\@int.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\int\bin\Debug\@int.exe
+C:\Users\sadka\Documents\visual studio dersleri\int\bin\Debug\@int.pdb
+C:\Users\sadka\Documents\visual studio dersleri\int\obj\Debug\int.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\int\obj\Debug\int.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\int\obj\Debug\@int.exe
+C:\Users\sadka\Documents\visual studio dersleri\int\obj\Debug\@int.pdb

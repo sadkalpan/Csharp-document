@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\average method\obj\Debug\average method.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\average method\obj\Debug\average method.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\average method\bin\Debug\average method.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\average method\bin\Debug\average method.exe
+C:\Users\sadka\Documents\visual studio dersleri\average method\bin\Debug\average method.pdb
+C:\Users\sadka\Documents\visual studio dersleri\average method\obj\Debug\average method.exe
+C:\Users\sadka\Documents\visual studio dersleri\average method\obj\Debug\average method.pdb

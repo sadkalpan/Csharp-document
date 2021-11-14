@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\static lesson\bin\Debug\static lesson.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\static lesson\bin\Debug\static lesson.exe
+C:\Users\sadka\Documents\visual studio dersleri\static lesson\bin\Debug\static lesson.pdb
+C:\Users\sadka\Documents\visual studio dersleri\static lesson\obj\Debug\static lesson.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\static lesson\obj\Debug\static lesson.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\static lesson\obj\Debug\static lesson.exe
+C:\Users\sadka\Documents\visual studio dersleri\static lesson\obj\Debug\static lesson.pdb

@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\convert the variable\bin\Debug\convert the variable.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\convert the variable\bin\Debug\convert the variable.exe
+C:\Users\sadka\Documents\visual studio dersleri\convert the variable\bin\Debug\convert the variable.pdb
+C:\Users\sadka\Documents\visual studio dersleri\convert the variable\obj\Debug\convert the variable.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\convert the variable\obj\Debug\convert the variable.exe
+C:\Users\sadka\Documents\visual studio dersleri\convert the variable\obj\Debug\convert the variable.pdb
+C:\Users\sadka\Documents\visual studio dersleri\convert the variable\obj\Debug\convert the variable.csproj.AssemblyReference.cache

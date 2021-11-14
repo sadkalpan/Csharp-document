@@ -1,0 +1,6 @@
+C:\Users\sadka\Documents\visual studio dersleri\added operators\bin\Debug\added operators.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\added operators\bin\Debug\added operators.exe
+C:\Users\sadka\Documents\visual studio dersleri\added operators\bin\Debug\added operators.pdb
+C:\Users\sadka\Documents\visual studio dersleri\added operators\obj\Debug\added operators.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\added operators\obj\Debug\added operators.exe
+C:\Users\sadka\Documents\visual studio dersleri\added operators\obj\Debug\added operators.pdb

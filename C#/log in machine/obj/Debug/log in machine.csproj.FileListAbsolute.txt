@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\log in machine\obj\Debug\log in machine.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\log in machine\obj\Debug\log in machine.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\log in machine\bin\Debug\log in machine.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\log in machine\bin\Debug\log in machine.exe
+C:\Users\sadka\Documents\visual studio dersleri\log in machine\bin\Debug\log in machine.pdb
+C:\Users\sadka\Documents\visual studio dersleri\log in machine\obj\Debug\log in machine.exe
+C:\Users\sadka\Documents\visual studio dersleri\log in machine\obj\Debug\log in machine.pdb

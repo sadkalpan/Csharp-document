@@ -1,0 +1,7 @@
+C:\Users\sadka\source\repos\proje1\arrylst_lesson\bin\Debug\arrylst_lesson.exe.config
+C:\Users\sadka\source\repos\proje1\arrylst_lesson\bin\Debug\arrylst_lesson.exe
+C:\Users\sadka\source\repos\proje1\arrylst_lesson\bin\Debug\arrylst_lesson.pdb
+C:\Users\sadka\source\repos\proje1\arrylst_lesson\obj\Debug\arrylst_lesson.csproj.AssemblyReference.cache
+C:\Users\sadka\source\repos\proje1\arrylst_lesson\obj\Debug\arrylst_lesson.csproj.CoreCompileInputs.cache
+C:\Users\sadka\source\repos\proje1\arrylst_lesson\obj\Debug\arrylst_lesson.exe
+C:\Users\sadka\source\repos\proje1\arrylst_lesson\obj\Debug\arrylst_lesson.pdb

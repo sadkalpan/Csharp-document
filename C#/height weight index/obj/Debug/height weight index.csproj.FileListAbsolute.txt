@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\height weight index\obj\Debug\height weight index.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\height weight index\obj\Debug\height weight index.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\height weight index\bin\Debug\height weight index.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\height weight index\bin\Debug\height weight index.exe
+C:\Users\sadka\Documents\visual studio dersleri\height weight index\bin\Debug\height weight index.pdb
+C:\Users\sadka\Documents\visual studio dersleri\height weight index\obj\Debug\height weight index.exe
+C:\Users\sadka\Documents\visual studio dersleri\height weight index\obj\Debug\height weight index.pdb

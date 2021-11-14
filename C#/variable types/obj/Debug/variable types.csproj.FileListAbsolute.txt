@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\variable types\bin\Debug\variable types.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\variable types\bin\Debug\variable types.exe
+C:\Users\sadka\Documents\visual studio dersleri\variable types\bin\Debug\variable types.pdb
+C:\Users\sadka\Documents\visual studio dersleri\variable types\obj\Debug\variable types.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\variable types\obj\Debug\variable types.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\variable types\obj\Debug\variable types.exe
+C:\Users\sadka\Documents\visual studio dersleri\variable types\obj\Debug\variable types.pdb

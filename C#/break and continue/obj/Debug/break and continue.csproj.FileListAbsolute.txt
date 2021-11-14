@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\break and continue\bin\Debug\break and continue.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\break and continue\bin\Debug\break and continue.exe
+C:\Users\sadka\Documents\visual studio dersleri\break and continue\bin\Debug\break and continue.pdb
+C:\Users\sadka\Documents\visual studio dersleri\break and continue\obj\Debug\break and continue.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\break and continue\obj\Debug\break and continue.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\break and continue\obj\Debug\break and continue.exe
+C:\Users\sadka\Documents\visual studio dersleri\break and continue\obj\Debug\break and continue.pdb

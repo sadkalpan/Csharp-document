@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\hello world\bin\Debug\hello world.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\hello world\bin\Debug\hello world.exe
+C:\Users\sadka\Documents\visual studio dersleri\hello world\bin\Debug\hello world.pdb
+C:\Users\sadka\Documents\visual studio dersleri\hello world\obj\Debug\hello world.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\hello world\obj\Debug\hello world.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\hello world\obj\Debug\hello world.exe
+C:\Users\sadka\Documents\visual studio dersleri\hello world\obj\Debug\hello world.pdb

@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\properties homework\obj\Debug\properties homework.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\properties homework\obj\Debug\properties homework.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\properties homework\bin\Debug\properties homework.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\properties homework\bin\Debug\properties homework.exe
+C:\Users\sadka\Documents\visual studio dersleri\properties homework\bin\Debug\properties homework.pdb
+C:\Users\sadka\Documents\visual studio dersleri\properties homework\obj\Debug\properties homework.exe
+C:\Users\sadka\Documents\visual studio dersleri\properties homework\obj\Debug\properties homework.pdb

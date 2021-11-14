@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\using class\bin\Debug\using class.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\using class\bin\Debug\using class.exe
+C:\Users\sadka\Documents\visual studio dersleri\using class\bin\Debug\using class.pdb
+C:\Users\sadka\Documents\visual studio dersleri\using class\obj\Debug\using class.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\using class\obj\Debug\using class.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\using class\obj\Debug\using class.exe
+C:\Users\sadka\Documents\visual studio dersleri\using class\obj\Debug\using class.pdb

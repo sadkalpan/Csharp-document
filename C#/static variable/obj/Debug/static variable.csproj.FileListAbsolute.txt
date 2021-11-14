@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\static variable\bin\Debug\static variable.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\static variable\bin\Debug\static variable.exe
+C:\Users\sadka\Documents\visual studio dersleri\static variable\bin\Debug\static variable.pdb
+C:\Users\sadka\Documents\visual studio dersleri\static variable\obj\Debug\static variable.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\static variable\obj\Debug\static variable.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\static variable\obj\Debug\static variable.exe
+C:\Users\sadka\Documents\visual studio dersleri\static variable\obj\Debug\static variable.pdb

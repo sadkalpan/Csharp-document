@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\even odd method\obj\Debug\even odd method.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\even odd method\obj\Debug\even odd method.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\even odd method\bin\Debug\even odd method.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\even odd method\bin\Debug\even odd method.exe
+C:\Users\sadka\Documents\visual studio dersleri\even odd method\bin\Debug\even odd method.pdb
+C:\Users\sadka\Documents\visual studio dersleri\even odd method\obj\Debug\even odd method.exe
+C:\Users\sadka\Documents\visual studio dersleri\even odd method\obj\Debug\even odd method.pdb

@@ -1,0 +1,6 @@
+C:\Users\sadka\Documents\visual studio dersleri\for loop\obj\Debug\for do and while loop.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\for loop\obj\Debug\for loop.exe
+C:\Users\sadka\Documents\visual studio dersleri\for loop\obj\Debug\for loop.pdb
+C:\Users\sadka\Documents\visual studio dersleri\for loop\bin\Debug\for loop.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\for loop\bin\Debug\for loop.exe
+C:\Users\sadka\Documents\visual studio dersleri\for loop\bin\Debug\for loop.pdb

@@ -1,0 +1,6 @@
+C:\Users\sadka\Documents\visual studio dersleri\the multiplication table\bin\Debug\the multiplication table.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\the multiplication table\bin\Debug\the multiplication table.exe
+C:\Users\sadka\Documents\visual studio dersleri\the multiplication table\bin\Debug\the multiplication table.pdb
+C:\Users\sadka\Documents\visual studio dersleri\the multiplication table\obj\Debug\the multiplication table.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\the multiplication table\obj\Debug\the multiplication table.exe
+C:\Users\sadka\Documents\visual studio dersleri\the multiplication table\obj\Debug\the multiplication table.pdb

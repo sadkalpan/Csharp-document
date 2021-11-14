@@ -1,0 +1,6 @@
+C:\Users\sadka\Documents\visual studio dersleri\object\bin\Debug\@object.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\object\bin\Debug\@object.exe
+C:\Users\sadka\Documents\visual studio dersleri\object\bin\Debug\@object.pdb
+C:\Users\sadka\Documents\visual studio dersleri\object\obj\Debug\object.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\object\obj\Debug\@object.exe
+C:\Users\sadka\Documents\visual studio dersleri\object\obj\Debug\@object.pdb

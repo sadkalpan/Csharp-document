@@ -1,0 +1,6 @@
+C:\Users\sadka\source\repos\proje1\boolean\bin\Debug\boolean.exe.config
+C:\Users\sadka\source\repos\proje1\boolean\bin\Debug\boolean.exe
+C:\Users\sadka\source\repos\proje1\boolean\bin\Debug\boolean.pdb
+C:\Users\sadka\source\repos\proje1\boolean\obj\Debug\boolean.csproj.CoreCompileInputs.cache
+C:\Users\sadka\source\repos\proje1\boolean\obj\Debug\boolean.exe
+C:\Users\sadka\source\repos\proje1\boolean\obj\Debug\boolean.pdb

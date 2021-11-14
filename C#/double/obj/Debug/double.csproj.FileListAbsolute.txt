@@ -1,0 +1,6 @@
+C:\Users\sadka\source\repos\proje1\double\bin\Debug\@double.exe.config
+C:\Users\sadka\source\repos\proje1\double\bin\Debug\@double.exe
+C:\Users\sadka\source\repos\proje1\double\bin\Debug\@double.pdb
+C:\Users\sadka\source\repos\proje1\double\obj\Debug\double.csproj.CoreCompileInputs.cache
+C:\Users\sadka\source\repos\proje1\double\obj\Debug\@double.exe
+C:\Users\sadka\source\repos\proje1\double\obj\Debug\@double.pdb

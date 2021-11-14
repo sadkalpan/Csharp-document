@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\if\obj\Debug\if.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\if\obj\Debug\if.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\if\bin\Debug\@if.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\if\bin\Debug\@if.exe
+C:\Users\sadka\Documents\visual studio dersleri\if\bin\Debug\@if.pdb
+C:\Users\sadka\Documents\visual studio dersleri\if\obj\Debug\@if.exe
+C:\Users\sadka\Documents\visual studio dersleri\if\obj\Debug\@if.pdb

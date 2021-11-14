@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\breakpoints and too\bin\Debug\breakpoints and too.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\breakpoints and too\bin\Debug\breakpoints and too.exe
+C:\Users\sadka\Documents\visual studio dersleri\breakpoints and too\bin\Debug\breakpoints and too.pdb
+C:\Users\sadka\Documents\visual studio dersleri\breakpoints and too\obj\Debug\breakpoints and tooltip.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\breakpoints and too\obj\Debug\breakpoints and tooltip.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\breakpoints and too\obj\Debug\breakpoints and too.exe
+C:\Users\sadka\Documents\visual studio dersleri\breakpoints and too\obj\Debug\breakpoints and too.pdb

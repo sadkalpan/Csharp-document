@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\inheritance\bin\Debug\inheritance.exe
+C:\Users\sadka\Documents\visual studio dersleri\inheritance\bin\Debug\inheritance.pdb
+C:\Users\sadka\Documents\visual studio dersleri\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\inheritance\obj\Debug\inheritance.exe
+C:\Users\sadka\Documents\visual studio dersleri\inheritance\obj\Debug\inheritance.pdb

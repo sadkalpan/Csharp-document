@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\method 2\bin\Debug\method 2.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\method 2\bin\Debug\method 2.exe
+C:\Users\sadka\Documents\visual studio dersleri\method 2\bin\Debug\method 2.pdb
+C:\Users\sadka\Documents\visual studio dersleri\method 2\obj\Debug\method 2.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\method 2\obj\Debug\method 2.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\method 2\obj\Debug\method 2.exe
+C:\Users\sadka\Documents\visual studio dersleri\method 2\obj\Debug\method 2.pdb

@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\student app\bin\Debug\student app.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\student app\bin\Debug\student app.exe
+C:\Users\sadka\Documents\visual studio dersleri\student app\bin\Debug\student app.pdb
+C:\Users\sadka\Documents\visual studio dersleri\student app\obj\Debug\student app.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\student app\obj\Debug\student app.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\student app\obj\Debug\student app.exe
+C:\Users\sadka\Documents\visual studio dersleri\student app\obj\Debug\student app.pdb

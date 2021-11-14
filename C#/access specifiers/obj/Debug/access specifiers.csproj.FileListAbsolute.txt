@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\access specifiers\bin\Debug\access specifiers.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\access specifiers\bin\Debug\access specifiers.exe
+C:\Users\sadka\Documents\visual studio dersleri\access specifiers\bin\Debug\access specifiers.pdb
+C:\Users\sadka\Documents\visual studio dersleri\access specifiers\obj\Debug\access specifiers.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\access specifiers\obj\Debug\access specifiers.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\access specifiers\obj\Debug\access specifiers.exe
+C:\Users\sadka\Documents\visual studio dersleri\access specifiers\obj\Debug\access specifiers.pdb

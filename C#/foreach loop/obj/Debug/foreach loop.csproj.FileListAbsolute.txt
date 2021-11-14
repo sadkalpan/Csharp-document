@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\foreach loop\bin\Debug\foreach loop.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\foreach loop\bin\Debug\foreach loop.exe
+C:\Users\sadka\Documents\visual studio dersleri\foreach loop\bin\Debug\foreach loop.pdb
+C:\Users\sadka\Documents\visual studio dersleri\foreach loop\obj\Debug\foreach loop.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\foreach loop\obj\Debug\foreach loop.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\foreach loop\obj\Debug\foreach loop.exe
+C:\Users\sadka\Documents\visual studio dersleri\foreach loop\obj\Debug\foreach loop.pdb

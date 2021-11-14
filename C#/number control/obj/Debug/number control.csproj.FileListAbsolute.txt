@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\number control\obj\Debug\number control.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\number control\obj\Debug\number control.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\number control\bin\Debug\number control.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\number control\bin\Debug\number control.exe
+C:\Users\sadka\Documents\visual studio dersleri\number control\bin\Debug\number control.pdb
+C:\Users\sadka\Documents\visual studio dersleri\number control\obj\Debug\number control.exe
+C:\Users\sadka\Documents\visual studio dersleri\number control\obj\Debug\number control.pdb

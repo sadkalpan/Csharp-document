@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\atm app\bin\Debug\atm app.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\atm app\bin\Debug\atm app.exe
+C:\Users\sadka\Documents\visual studio dersleri\atm app\bin\Debug\atm app.pdb
+C:\Users\sadka\Documents\visual studio dersleri\atm app\obj\Debug\atm app.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\atm app\obj\Debug\atm app.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\atm app\obj\Debug\atm app.exe
+C:\Users\sadka\Documents\visual studio dersleri\atm app\obj\Debug\atm app.pdb

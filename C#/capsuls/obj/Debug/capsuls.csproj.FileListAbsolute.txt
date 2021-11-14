@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\capsuls\bin\Debug\capsuls.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\capsuls\bin\Debug\capsuls.exe
+C:\Users\sadka\Documents\visual studio dersleri\capsuls\bin\Debug\capsuls.pdb
+C:\Users\sadka\Documents\visual studio dersleri\capsuls\obj\Debug\capsuls.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\capsuls\obj\Debug\capsuls.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\capsuls\obj\Debug\capsuls.exe
+C:\Users\sadka\Documents\visual studio dersleri\capsuls\obj\Debug\capsuls.pdb

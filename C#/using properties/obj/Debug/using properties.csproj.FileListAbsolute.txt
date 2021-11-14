@@ -1,0 +1,6 @@
+C:\Users\sadka\Documents\visual studio dersleri\using properties\bin\Debug\using properties.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\using properties\bin\Debug\using properties.exe
+C:\Users\sadka\Documents\visual studio dersleri\using properties\bin\Debug\using properties.pdb
+C:\Users\sadka\Documents\visual studio dersleri\using properties\obj\Debug\using properties.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\using properties\obj\Debug\using properties.exe
+C:\Users\sadka\Documents\visual studio dersleri\using properties\obj\Debug\using properties.pdb

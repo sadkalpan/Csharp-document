@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\find a big number\bin\Debug\find a big number.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\find a big number\bin\Debug\find a big number.exe
+C:\Users\sadka\Documents\visual studio dersleri\find a big number\bin\Debug\find a big number.pdb
+C:\Users\sadka\Documents\visual studio dersleri\find a big number\obj\Debug\find a big number.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\find a big number\obj\Debug\find a big number.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\find a big number\obj\Debug\find a big number.exe
+C:\Users\sadka\Documents\visual studio dersleri\find a big number\obj\Debug\find a big number.pdb

@@ -1,0 +1,7 @@
+C:\Users\sadka\Documents\visual studio dersleri\using properties2\bin\Debug\using properties2.exe.config
+C:\Users\sadka\Documents\visual studio dersleri\using properties2\bin\Debug\using properties2.exe
+C:\Users\sadka\Documents\visual studio dersleri\using properties2\bin\Debug\using properties2.pdb
+C:\Users\sadka\Documents\visual studio dersleri\using properties2\obj\Debug\using properties2.csproj.AssemblyReference.cache
+C:\Users\sadka\Documents\visual studio dersleri\using properties2\obj\Debug\using properties2.csproj.CoreCompileInputs.cache
+C:\Users\sadka\Documents\visual studio dersleri\using properties2\obj\Debug\using properties2.exe
+C:\Users\sadka\Documents\visual studio dersleri\using properties2\obj\Debug\using properties2.pdb
